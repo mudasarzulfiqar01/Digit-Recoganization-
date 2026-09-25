@@ -1,1 +1,1 @@
-# Digit-Recoganization-
+# Digit-Recognization
